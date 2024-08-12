@@ -1,5 +1,6 @@
 # git
 <br>
-hello this is git tute
+hello this is git tutorial..
+
 
 
